@@ -1,5 +1,7 @@
 # freedom
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 Example for building an iOS application using the swift package manager,
 avoiding Xcode as much as possible. Currently WIP.
 
